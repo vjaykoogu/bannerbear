@@ -1,0 +1,19 @@
+{
+    "name": "vijaykoogu/bannerbear",
+    "description": "A PHP wrapper for the Bannerbear API.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vijaykoogu\\Bannerbear\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vijay Koogu",
+            "email": "vijaykoogu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
